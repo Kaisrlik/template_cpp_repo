@@ -1,0 +1,1 @@
+option('nogui_nowinclear', type : 'boolean', value : false)
